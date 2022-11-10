@@ -2,7 +2,7 @@ resource "azurerm_resource_group" "rg" {
 
   name     = "lakshayrg2"
 
-  location = "East US"
+  location = "East US 2"
 
 }
 
