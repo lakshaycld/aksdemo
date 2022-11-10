@@ -16,7 +16,7 @@ resource "azurerm_container_registry" "ACR" {
 
   location            = azurerm_resource_group.rg.location             
 
-  sku                 = "standard"
+  sku                 = "Standard"
 
 }
 
